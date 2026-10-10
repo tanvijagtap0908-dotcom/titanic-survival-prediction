@@ -52,3 +52,7 @@ Dataset source: [Kaggle Titanic Competition](https://www.kaggle.com/competitions
 
 ## Disclaimer
 This project is intended for educational purposes.
+
+## Project Screenshots
+<img width="955" height="438" alt="Titanic" src="https://github.com/user-attachments/assets/4f610da2-9f29-4b6f-8c05-785ef884e901" />
+
